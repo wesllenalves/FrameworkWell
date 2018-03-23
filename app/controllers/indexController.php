@@ -1,14 +1,14 @@
 <?php
 
-namespace App\controllers;
+namespace App\Controllers;
 
 
- class Index{
+ class IndexController{
 
 
-public function index(){
+	public function index(){
 
-	echo "hello word";
-}
+		echo "hello word";
+	}
 
 }
