@@ -1,0 +1,10 @@
+
+{
+
+	"autoload":{
+		"psr-4":{
+			"FrameworkWell\\" : "vendor/frameworkWell/",
+			"App": "app"
+		}
+	}
+}
